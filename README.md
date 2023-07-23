@@ -1,3 +1,6 @@
+# Hi there, I'm [Mark]() ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programming+is+life)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-grigorev)](https://github.com/mark-grigorev/github-readme-stats)
