@@ -9,7 +9,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programming+is+life)](https://git.io/typing-svg)
 
 
-[![Mark'xgithub activity graph](https://activity-graph.herokuapp.com/graph?username=mark-grigorev)](https://github.com/mark-grigorev/github-readme-activity-graph)
+[![Mark's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mark-Grigorev)](https://github.com/Mark-Grigorev/github-readme-activity-graph)
 <!--
 **Mark-Grigorev/Mark-Grigorev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
