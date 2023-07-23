@@ -1,6 +1,4 @@
-# Hi there, I'm [Mark](https://github.com/Mark-Grigorev) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
-№Hi there, I'm [Mark](https://github.com/Mark-Grigorev) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-
+# Hi there, I'm [Mark](https://github.com/Mark-Grigorev) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  markgrigorev02@gmail.com
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programming+is+life)](https://git.io/typing-svg)
 
 
